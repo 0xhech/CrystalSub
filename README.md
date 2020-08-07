@@ -16,6 +16,12 @@ Clone crystalsub repository from remote sever
 
 git clone https://github.com/AsafDamn/CrystalSub.git
 
+# Setup
+
+If pip3 is not installed in your system, install pip3 first..
+
+pip3 install -r requirements.txt
+
 # Usage
 
 python3 crystalsub.py -h
